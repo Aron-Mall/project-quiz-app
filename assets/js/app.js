@@ -19,7 +19,7 @@ const App = (function(){
         1);
 
     const q2 = new Question(
-        "What does CSS stand fo?",
+        "What does CSS stand for?",
         ["County State Service", "Cascading Style Sheets", "Cascading Slimy Sheets","Cross Cross Scripting"],
         1);
 
